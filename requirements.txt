@@ -3,4 +3,4 @@ plotly
 numpy
 pandas
 numpy_financial
-matplotlib.pyplot
+matplotlib
